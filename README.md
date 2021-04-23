@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @tha219
-- 👀 I’m interested in
-- 🌱 I’m currently learning ...
+- 👀 I’m interested in estudar programação
+- 🌱 I’m currently learning ...html, css.
 
 - 💞️ I’m looking to collaborate 
 - 📫 How to reach me ...
